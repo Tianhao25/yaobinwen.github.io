@@ -1,0 +1,40 @@
+#
+# Blog Settings
+#
+author: Yaobin "Robin" Wen
+description: Yaobin的技术博客
+url: http://robinwen.github.io
+title: Robin on Rails
+gavatar: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
+favicon: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
+
+# Github repositories
+github_user: robinwen
+github_repo_url: https://github.com/robinwen/robinwen.github.io
+
+# Twitter
+twitter_user: yaobinwen
+twitter_tweet_button: true
+
+# Disqus Comments
+disqus_short_name: haacked
+disqus_show_comment_count: true
+
+# Google Analytics
+# google_analytics_tracking_id: UA-177588-1
+
+
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
