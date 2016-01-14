@@ -2,9 +2,9 @@
 # Blog Settings
 #
 author: Yaobin "Robin" Wen
-description: Yaobin的技术博客
+description: Yaobin's Blog
 url: http://robinwen.github.io
-title: Robin on Rails
+title: Yaobin
 gravatar_url: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
 favicon: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
 
@@ -17,9 +17,6 @@ email: robin.wyb@gmail.com
 
 # Linkedin
 linkedin_user: robinwen
-
-# Stackoverflow
-stackoverflow_user: 630364/yaobin
 
 # Disqus Comments
 disqus_short_name: haacked
