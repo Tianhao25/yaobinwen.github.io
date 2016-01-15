@@ -3,14 +3,14 @@
 #
 author: Yaobin "Robin" Wen
 description: Yaobin's Blog
-url: http://robinwen.github.io
+url: http://yaobinwen.github.io
 title: Yaobin
 gravatar_url: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
 favicon: https://avatars0.githubusercontent.com/u/6106393?v=3&s=460
 
 # Github repositories
-github_user: robinwen
-github_repo_url: https://github.com/robinwen/robinwen.github.io
+github_user: yaobinwen
+github_repo_url: https://github.com/yaobinwen/yaobinwen.github.io
 
 # Email
 email: robin.wyb@gmail.com
@@ -22,7 +22,7 @@ linkedin_user: robinwen
 stackoverflow_user: 630364/yaobin?tab=profile
 
 # Disqus Comments
-disqus_short_name: haacked
+disqus_short_name: yaobinwen
 disqus_show_comment_count: true
 
 # Google Analytics
