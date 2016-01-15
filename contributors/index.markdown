@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Contributors"
-date: 2014-05-10 -0800
+date: 2016-01-14
 comments: false
 categories: [personal blog]
 sharing: false
+
 ---
 
 ## Contributors
