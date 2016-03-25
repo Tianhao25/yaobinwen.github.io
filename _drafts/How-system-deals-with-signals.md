@@ -33,7 +33,15 @@ After the child process is completed, the normal signal handling is restored in 
 ## References
 
 https://www.gnu.org/software/bash/manual/html_node/Signals.html
+
 http://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process
+
 http://www.cons.org/cracauer/sigint.html
+
 http://www.vidarholen.net/contents/blog/?p=34
-"what would happen behind when an interactive bash receives SIGINT"
+
+http://unix.stackexchange.com/questions/80975/preventing-propagation-of-sigint-to-parent-process
+
+http://www.csc.villanova.edu/~mdamian/Past/csc2405sp13/notes/Exec.pdf
+
+Key words for search: "what would happen behind when an interactive bash receives SIGINT"
