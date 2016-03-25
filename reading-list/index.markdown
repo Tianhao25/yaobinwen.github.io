@@ -13,6 +13,7 @@ sharing: false
 This page lists the books, articles, papers, essays, talks, etc. that I consider valuable.
 
 ## Reading in Progress
+---
 
 #### [Evaluating Project Decisions: Case Studies in Software Engineering](http://www.amazon.com/dp/B002VRZPHS/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2VGMNARANNIG&coliid=I35GDOUJDKYF8B)
 
@@ -21,6 +22,7 @@ This page lists the books, articles, papers, essays, talks, etc. that I consider
 I believe decision making is very important to the daily work in software development. Software development is a combination of various skills and one should not treat it as merely technical work.
 
 ## Plan to Read
+---
 
 #### [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=tmm_pap_swatch_0?_encoding=UTF8&coliid=I2L0YPFTCKDPQO&colid=2VGMNARANNIG&qid=&sr=)
 
@@ -34,3 +36,4 @@ I have to say I know almost nothing about DevOps, and this is exactly why I plan
 
 
 ## Already Read
+---
