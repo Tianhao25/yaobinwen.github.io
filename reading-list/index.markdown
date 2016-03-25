@@ -26,7 +26,9 @@ I have to say I know almost nothing about DevOps, and this is exactly why I plan
 
 **[DevOps: Learn One of the Most Powerful Software Development Methodologies FAST AND EASY!](http://www.amazon.com/DevOps-Powerful-Software-Development-Methodologies-ebook/dp/B0170ME48E/ref=sr_1_13?s=books&ie=UTF8&qid=1458949354&sr=1-13&keywords=devops)**
 
-![Cover](http://ecx.images-amazon.com/images/I/51IcKPJAINL._SX311_BO1,204,203,200_.jpg)
+|  Cover  |  Thoughts  |
+|:-------:|:----------:|
+|![Cover](http://ecx.images-amazon.com/images/I/51IcKPJAINL._SX311_BO1,204,203,200_.jpg) | See thoughts above |
 
 
 ## I have read...
