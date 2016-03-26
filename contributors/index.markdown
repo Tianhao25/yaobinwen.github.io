@@ -14,11 +14,10 @@ These lovely people have contributed a fix to my blog. If you want
 to see yourself in this list, send me a pull request!
 
 The people in the list below have contributed to my blog. You can contribute in the following ways:
-    - Post a tech essay.
-    - Correct a mistake of any kind by [logging an issue](https://github.com/yaobinwen/yaobinwen.github.io/issues/new).
-    - Suggest new ideas.
 
-<br />
+1. Post a tech essay.
+2. Correct a mistake of any kind by [logging an issue](https://github.com/yaobinwen/yaobinwen.github.io/issues/new).
+3. Suggest new ideas.
 
 <ul>
 {% for contributor in site.github.contributors %}
