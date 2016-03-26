@@ -15,6 +15,7 @@ sharing: false
 ## I plan to read...
 
 * **Article**: [为什么敏捷方法能在软件开发中行之有效？](http://coolshell.cn/articles/2622.html)
+* **Article**: [多些时间能少写些代码](http://coolshell.cn/articles/5686.html)
 * **Book:** [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=tmm_pap_swatch_0?_encoding=UTF8&coliid=I2L0YPFTCKDPQO&colid=2VGMNARANNIG&qid=&sr=)
 
 ## I have read...
