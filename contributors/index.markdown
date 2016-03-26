@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contributors"
-date: 2016-01-14
+date: 2016-03-25
 comments: false
 categories: [personal blog]
 sharing: false
@@ -13,10 +13,10 @@ sharing: false
 These lovely people have contributed a fix to my blog. If you want
 to see yourself in this list, send me a pull request!
 
-Every post in my blog has an edit link that lets you edit the blog post directly in the browser and automatically sends me a pull request.
-
-Or [visit my repository]({{site.github.repository_url}}) and send me a pull
-request the old fashioned way.
+The people in the list below have contributed to my blog. You can contribute in the following ways:
+* Post a tech essay.
+* Correct a mistake of any kind by [logging an issue](https://github.com/yaobinwen/yaobinwen.github.io/issues/new).
+* Suggest new ideas.
 
 <ul>
 {% for contributor in site.github.contributors %}
@@ -25,3 +25,7 @@ request the old fashioned way.
   </li>
 {% endfor %}
 </ul>
+
+Every post in my blog has an edit link that lets you edit the blog post directly in the browser and automatically sends me a pull request.
+
+Or, [visit my repository]({{site.github.repository_url}}) and send me a pull request the old fashioned way.
