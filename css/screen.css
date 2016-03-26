@@ -329,7 +329,7 @@ article .entry-content h2 {
 article .entry-content h2:before {
     content: "";
     position: absolute;
-    bottom: -2px;
+    bottom: 2px;
     border-bottom: 1px solid #fff;
     width: 100%;
 }
