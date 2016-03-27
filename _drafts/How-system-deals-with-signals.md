@@ -9,13 +9,22 @@ description:
 
 ---
 
-## The Problem
+## How Python's os.system() Deals with Signals
 
-(TODO)
+I encountered a problem the other day in the software platform that I am developing these days. The problem can be briefly described as three facts:
+1. I am writing a Python script that will run infinitely, but is listening to the SIGINT to break the loop and terminate.
+2. This Python script calls some underlying shell commands by using the ```os.system()``` in order to finish its tasks.
+3. This Python script runs in the background so the user cannot terminate it by pressing the Ctrl + C. Instead, the user needs to use ```kill -2 <pid>``` to do so.
 
-## Analysis
+The problem was: Sometimes the ```os.system()``` calls a command that runs long time. During this time, executing ```kill -2 <pid>``` does not kill the target process successfully.
 
-Python's os.system() calls C's system() function.
+After searching on the Internet, I realized that this was caused by the fact that Python's ```os.system()```, which will further calls the C's ```system()``` function, ignores the SIGINT signal. In ```os.system()``` function, the command that is called is spawned as a new process, but this new process will listen and handle the signals. As a result, when the script is running in the foreground, pressing ```Ctrl + C``` will send a SIGINT to all the processes in the process group so they can be terminated as expected. However, ```kill``` sends the specified signal only to the specified process, not the entire group. Because the target process, in my case, is the one that calls the ```os.system()``` and it ignores the SIGINT, it cannot be terminated as expected.
+
+Here are the notes that I made about this problem.
+
+**First**, Python's ```os.system()``` calls C's ```system()``` function. This can be seen from the source code of ```os.system()```:
+
+> (TODO)
 
 In glibc, C's ```system()``` function is an alias of ```do_system()``` function which is implemented with the calls to fork(), execl() and waitpid(), as shown in [its source code](http://code.metager.de/source/xref/gnu/glibc/sysdeps/posix/system.c).
 
