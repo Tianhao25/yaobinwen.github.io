@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 软件开发要以用户为中心
-date: 2016-03-30
+date: 2016-03-29
 comments: true
 category: 随想
 description: 老生常谈：软件工程师要学习和了解用户的目标，而不是自己去想象用户可能怎么使用。
