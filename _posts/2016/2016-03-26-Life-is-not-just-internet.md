@@ -3,7 +3,7 @@ layout: post
 title: 创业不是只有互联网
 date: 2016-03-26
 comments: true
-category: 随想
+category: 随笔
 description: 如果我们的眼光只盯在互联网上，同样是一种“盲目”。
 
 ---
