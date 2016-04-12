@@ -18,3 +18,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 | [Joel on Software](http://www.joelonsoftware.com/) | English | The blog of Joel Spolsky, one of the [Stack Overflow](http://stackoverflow.com/) cofounders. |
 |[台灣工程師的矽谷故事](http://winston-zh.attlin.com/)| Chinese | A personal blog of a Taiwanese engineer talking about the SV experience.|
 |[SOLID Development Principles – In Motivational Pictures](https://lostechies.com/derickbailey/2009/02/11/solid-development-principles-in-motivational-pictures/)| English | |
+|[ionel's codelog](https://blog.ionelmc.ro/)| English | I like his blog's theme... |
