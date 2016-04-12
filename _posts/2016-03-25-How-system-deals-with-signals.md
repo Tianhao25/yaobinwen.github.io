@@ -1,11 +1,10 @@
 ---
-layout: draft
+layout: post
 title: How os.system() Deals with Signals
 date: 2016-03-25
 comments: true
-category: Draft
+category: tech
 tags: system(), signals
-description:
 
 ---
 
