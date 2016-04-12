@@ -22,9 +22,28 @@ After searching on the Internet, I realized that this was caused by the fact tha
 
 Here are the notes that I made about this problem.
 
-**First**, Python's ```os.system()``` calls C's ```system()``` function. This can be seen from the source code of ```os.system()```:
+First, Python's ```os.system()``` calls C's ```system()``` function. This can be seen from the source code of ```os.system()```:
 
-> (TODO)
+    #ifdef HAVE_SYSTEM
+    PyDoc_STRVAR(posix_system__doc__,
+    "system(command) -> exit_status\n\n\
+    Execute the command (a string) in a subshell.");
+
+    static PyObject *
+    posix_system(PyObject *self, PyObject *args)
+    {
+        char *command;
+        long sts;
+        if (!PyArg_ParseTuple(args, "s:system", &command))
+            return NULL;
+        Py_BEGIN_ALLOW_THREADS
+        sts = system(command);
+        Py_END_ALLOW_THREADS
+        return PyInt_FromLong(sts);
+    }
+    #endif
+
+([This question](http://stackoverflow.com/questions/14613223/python-os-library-source-code-location) shows where to find the source code.)
 
 In glibc, C's ```system()``` function is an alias of ```do_system()``` function which is implemented with the calls to fork(), execl() and waitpid(), as shown in [its source code](http://code.metager.de/source/xref/gnu/glibc/sysdeps/posix/system.c).
 
@@ -41,16 +60,11 @@ After the child process is completed, the normal signal handling is restored in 
 
 ## References
 
-https://www.gnu.org/software/bash/manual/html_node/Signals.html
-
-http://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process
-
-http://www.cons.org/cracauer/sigint.html
-
-http://www.vidarholen.net/contents/blog/?p=34
-
-http://unix.stackexchange.com/questions/80975/preventing-propagation-of-sigint-to-parent-process
-
-http://www.csc.villanova.edu/~mdamian/Past/csc2405sp13/notes/Exec.pdf
+* [3.7.6 Signals](https://www.gnu.org/software/bash/manual/html_node/Signals.html)
+* [Why is SIGINT not propagated to child process when sent to its parent process?](http://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process)
+* [Proper handling of SIGINT/SIGQUIT](http://www.cons.org/cracauer/sigint.html)
+* [Why Bash is like that: Signal propagation](http://www.vidarholen.net/contents/blog/?p=34)
+* [Preventing propagation of SIGINT to Parent Process](http://unix.stackexchange.com/questions/80975/preventing-propagation-of-sigint-to-parent-process)
+* [Behind the 'system(...)' Command](http://www.csc.villanova.edu/~mdamian/Past/csc2405sp13/notes/Exec.pdf)
 
 Key words for search: "what would happen behind when an interactive bash receives SIGINT"
