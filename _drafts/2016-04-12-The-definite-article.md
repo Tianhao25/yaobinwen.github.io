@@ -63,7 +63,9 @@ It can be seen that the usage of "the" is no way to be a mathematical rule!!!
 My rule-of-thumb is:
 1. In the case of a title followed by a person's name, such as ```President Obama```, ```Prince Charles```, ```Mr. Green```, we should not use "the".
 2. If only the title is mentioned and it is capitalized, such as ```The President gave a speech.```, ```The Queen will open...```, we should use "the".
-3. When we are talking about a title/position in a group/team/organization, AND we do not use a person's name after it, AND the title/position is not capitalized, usually we can put the "the" before that, such as ```the captain of the team```, ```the goalkeeper for Crystal Palace FC```. In these cases, we are more likely emphasizing the singleness of this title/position.
+3. "The" is used in titles and place names including of, such as ```It is unlikely the Queen of Denmark has
+ever swum in the Bay of Bengal.```.
+4. When we are talking about a title/position in a group/team/organization, AND we do not use a person's name after it, AND the title/position is not capitalized, usually we can put the "the" before that, such as ```the captain of the team```, ```the goalkeeper for Crystal Palace FC```. In these cases, we are more likely emphasizing the singleness of this title/position.
 
 Happy learning English!
 
