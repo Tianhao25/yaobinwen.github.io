@@ -22,7 +22,7 @@ sharing: false
 * **Article:** [C3 Linearization](https://en.wikipedia.org/wiki/C3_linearization)
 * **Article:** [Why Dylan](http://opendylan.org/documentation/intro-dylan/why-dylan.html)
 * **Article:** [9. Classes](https://docs.python.org/2/tutorial/classes.html)
-* **Article:** [Saying Goodbye To Python](http://www.ianbicking.org/blog/2014/02/saying-goodbye-to-python.html)
+* **Article:** [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 
 ## I have read...
 
