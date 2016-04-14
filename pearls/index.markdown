@@ -20,3 +20,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 |[SOLID Development Principles – In Motivational Pictures](https://lostechies.com/derickbailey/2009/02/11/solid-development-principles-in-motivational-pictures/)| English | |
 |[ionel's codelog](https://blog.ionelmc.ro/)| English | I like his blog's theme... |
 |[Ian Bicking: a home page](http://www.ianbicking.org/)| English | Looks pretty awesome! |
+|[Lucidchart](https://www.lucidchart.com/)| English | A tool to draw diagrams and charts. Examples can be found in [this post](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/). |
