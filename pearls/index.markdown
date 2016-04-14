@@ -19,3 +19,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 |[台灣工程師的矽谷故事](http://winston-zh.attlin.com/)| Chinese | A personal blog of a Taiwanese engineer talking about the SV experience.|
 |[SOLID Development Principles – In Motivational Pictures](https://lostechies.com/derickbailey/2009/02/11/solid-development-principles-in-motivational-pictures/)| English | |
 |[ionel's codelog](https://blog.ionelmc.ro/)| English | I like his blog's theme... |
+|[Ian Bicking: a home page](http://www.ianbicking.org/)| English | Looks pretty awesome! |

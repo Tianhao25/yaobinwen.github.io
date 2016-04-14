@@ -14,10 +14,17 @@ sharing: false
 
 ## I plan to read...
 
-* **Article**: [为什么敏捷方法能在软件开发中行之有效？](http://coolshell.cn/articles/2622.html)
-* **Article**: [多些时间能少写些代码](http://coolshell.cn/articles/5686.html)
+* **Article:** [为什么敏捷方法能在软件开发中行之有效？](http://coolshell.cn/articles/2622.html)
+* **Article:** [多些时间能少写些代码](http://coolshell.cn/articles/5686.html)
 * **Book:** [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=tmm_pap_swatch_0?_encoding=UTF8&coliid=I2L0YPFTCKDPQO&colid=2VGMNARANNIG&qid=&sr=)
+* **Presentation:** [The Liskov Substitution Principle](http://www.engr.mun.ca/~theo/Courses/sd/5895-downloads/sd-principles-3.ppt.pdf)
+* **Article:** [Python’s super() considered super!](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
+* **Article:** [C3 Linearization](https://en.wikipedia.org/wiki/C3_linearization)
+* **Article:** [Why Dylan](http://opendylan.org/documentation/intro-dylan/why-dylan.html)
+* **Article:** [9. Classes](https://docs.python.org/2/tutorial/classes.html)
+* **Article:** [Saying Goodbye To Python](http://www.ianbicking.org/blog/2014/02/saying-goodbye-to-python.html)
 
 ## I have read...
 
 * **Book:** [Expert C Programming](http://ecx.images-amazon.com/images/I/41g5xoVIvKL._SX408_BO1,204,203,200_.jpg)
+* **Article:** [Method Resolution Order](http://python-history.blogspot.com/2010/06/method-resolution-order.html)
