@@ -40,3 +40,16 @@ keywords: software engineering
 哦，对了，这篇文章的立足点主要是互联网企业，所以他的观点里说的软件工程教学和实践脱节，首先应该特指“和互联网企业的研发脱节”。但目前这个世界上不是所有的软件都是基于互联网思维构建的。比如特斯拉的车载软件，比如NASA航天器上的软件，比如银行的系统，比如Matlab，比如Adobe Reader、以及你们第一个学期在Models of Software Systems这门课上要使用的排版软件LeTeX。我不是说在这些其他方面没有脱节，只是提醒注意一下作者的立足点。另外，软件开发要处理人的因素，这个人不仅包括开发人员，也包括客户，其实也包括了组织文化和规章制度，因为制度是人顶出来的嘛。所以，某些软件研发模型和流程，可能仍然适用于某些项目的特点，不能说因为在互联网行业玩不转就全盘否定。比如，文章里有一个部分列出了一些软件工程教材的共同主题，并说“就我的调查，大多数人的答案是“没多大关系”。”。学过统计学的人应该首先询问一下这个调查到底是如何采样的，样本空间有多大，等等。我不是说不允许否定某些事情，我是认为否定的时候要尽量谨慎一些，注意否定所波及的范围。因为，我在CMU这边做的一个项目是带有科研背景的，我们的客户自己都还不是非常清楚下一步该怎么走，于是我们共同做了将近半个多学期的“可行性研究”，并且发现他们初始设置的目标不现实，于是及时调整项目方向，没有浪费更多的资源。所以我知道对于某些类型的项目，可行性研究是非常有用的。但是在互联网企业里，产品的研发可能的确需要用“短、频、快”的方式，有一些想法就立刻做出来投入市场检验，根据反馈再进一步调整，没有那么多时间做很多传统意义上的可行性研究(不过，我倒觉得这种快速的试错也是另一种形式的可行性研究，看你怎么定义了)。所以，你目力所见觉得没用的东西，可能只是你没有看到足够多的情形而已，并不保证它在普适意义上失去价值。
 
 @周宇超 所以，回归到最初的问题上来。我首先认为软件工程是非常有用的，但确实教学方式需要改进。CMU这边的软工教学一定有自己的问题，但我认为他们教学的方式和培养的目标大体上是正确的(细一些的方面也有被我们吐槽很严重的，尤其是缺少互联网项目的案例这点上)。
+
+# References
+* [Software Engineering Methodologies](http://www.slideshare.net/DamianGordon1/software-engineering-methodologies)
+* [Introduction to Software Engineering/Process/Methodology](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Process/Methodology)
+* [Software Development Methodologies](http://www.itinfo.am/eng/software-development-methodologies/)
+* [History of software engineering](https://en.wikipedia.org/wiki/History_of_software_engineering)
+* [History of Software Engineering](https://www.dagstuhl.de/Reports/96/9635.pdf)
+* [A Brief History of Software Engineering](http://people.inf.ethz.ch/wirth/Miscellaneous/IEEE-Annals.pdf)
+* [Software Engineering: History](http://www.tandfencys.com/ese/Entry.pdf)
+* [A Very Brief History of Software Engineering](https://www.vikingcodeschool.com/software-engineering-basics/a-brief-history-of-software-engineering)
+* [Software engineering history](https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Web/History/)
+* [Milestones in Software Engineering and Knowledge Engineering History: A Comparative Review](http://www.hindawi.com/journals/tswj/2014/692510/)
+* [The result pages from Google](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=software+engineering+history&start=0)
