@@ -53,3 +53,5 @@ keywords: software engineering
 * [Software engineering history](https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Web/History/)
 * [Milestones in Software Engineering and Knowledge Engineering History: A Comparative Review](http://www.hindawi.com/journals/tswj/2014/692510/)
 * [The result pages from Google](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=software+engineering+history&start=0)
+* [A HISTORY OF SOFTWARE ENGINEERING RESEARCH](https://www.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/cooperbradley.pdf)
+* [The NATO Software Engineering Conference 1968](http://1stmuse.com/sw/the_nato_software_engineering_conference_1968/)
