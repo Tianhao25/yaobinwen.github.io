@@ -21,3 +21,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 |[ionel's codelog](https://blog.ionelmc.ro/)| English | I like his blog's theme... |
 |[Ian Bicking: a home page](http://www.ianbicking.org/)| English | Looks pretty awesome! |
 |[Lucidchart](https://www.lucidchart.com/)| English | A tool to draw diagrams and charts. Examples can be found in [this post](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/). |
+|[Ruslan's Blog](https://ruslanspivak.com/)| English | Famous for his "Let's Build A Simple Interpreter" series. |
