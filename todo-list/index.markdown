@@ -20,3 +20,5 @@ sharing: false
 | Not Started | Read [Why Dylan](http://opendylan.org/documentation/intro-dylan/why-dylan.html) |
 | Not Started | Read [9. Classes](https://docs.python.org/2/tutorial/classes.html) |
 | Not Started | Read [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/) |
+| **Done** | Read [Expert C Programming](http://ecx.images-amazon.com/images/I/41g5xoVIvKL._SX408_BO1,204,203,200_.jpg) |
+| **Done** | Read [Method Resolution Order](http://python-history.blogspot.com/2010/06/method-resolution-order.html) |
