@@ -23,3 +23,4 @@ sharing: false
 | **Done** | Read [Expert C Programming](http://ecx.images-amazon.com/images/I/41g5xoVIvKL._SX408_BO1,204,203,200_.jpg) |
 | **Done** | Read [Method Resolution Order](http://python-history.blogspot.com/2010/06/method-resolution-order.html) |
 | Not Started | Review the Architecture course slides. |
+| Not Started | Learn about docker. |
