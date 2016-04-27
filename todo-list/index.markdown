@@ -24,3 +24,4 @@ sharing: false
 | **Done** | Read [Method Resolution Order](http://python-history.blogspot.com/2010/06/method-resolution-order.html) |
 | Not Started | Review the Architecture course slides. |
 | Not Started | Learn about docker. |
+| Not Started | Read the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) again. |
