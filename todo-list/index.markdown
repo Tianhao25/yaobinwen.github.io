@@ -25,3 +25,4 @@ sharing: false
 | Not Started | Review the Architecture course slides. |
 | Not Started | Learn about docker. |
 | Not Started | Read the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) again. |
+| Not Started | Learn about [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/) and the [LMAX Architecture](http://martinfowler.com/articles/lmax.html). |
