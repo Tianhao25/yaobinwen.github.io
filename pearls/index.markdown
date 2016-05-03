@@ -23,3 +23,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 |[Lucidchart](https://www.lucidchart.com/)| English | A tool to draw diagrams and charts. Examples can be found in [this post](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/). |
 |[Ruslan's Blog](https://ruslanspivak.com/)| English | Famous for his "Let's Build A Simple Interpreter" series. |
 |[Garfixia Software Architectures](http://www.dossier-andreas.net/software_architecture/)| English | A website that introduces many commonly used architectural patterns. |
+|[Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)| English | How to build system architecture. |
