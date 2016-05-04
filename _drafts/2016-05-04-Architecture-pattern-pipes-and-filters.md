@@ -22,3 +22,5 @@ We need to be clear about what it means by "no knowledge". We know that a filter
 * Are the information fields contained in the data passed along the pipes considered to be the knowledge shared between the filters? No, because such information is the input of the next filter. It is necessary for the downstream filters to work correctly.
 
 **2). The system should not depend on the scheduler.**
+
+What is a "scheduler"? A scheduler is a component that knows the states of different filters in order to determine which filters should run and which should pause. In other words, as long as a "scheduler" does not use the other filters' state information to determine whether a filter should run or pause, it is not considered as a "scheduler" in this case.
