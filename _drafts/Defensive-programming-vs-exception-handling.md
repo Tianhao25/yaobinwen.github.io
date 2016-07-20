@@ -11,6 +11,7 @@ description:
 
 The links for this topic:
 * [Exceptions vs. status returns](http://nedbatchelder.com/text/exceptions-vs-status.html)
+* [Exceptions in the rainforest](http://nedbatchelder.com/text/exceptions-in-the-rainforest.html)
 * [Error codes vs exceptions: critical code vs typical code](http://yosefk.com/blog/error-codes-vs-exceptions-critical-code-vs-typical-code.html)
 * Exception specification in Python:
   * [How Can I Find a List of All Exceptions That a Given Library Function Throws in Python?](http://stackoverflow.com/questions/2843112/how-can-i-find-a-list-of-all-exceptions-that-a-given-library-function-throws-in)
