@@ -26,3 +26,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 |[Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)| English | How to build system architecture. |
 | [GIT SOURCE CODE REVIEW: OVERVIEW](http://fabiensanglard.net/git_code_review/) | English | Some notes on the study of Git by Fabien Sanglard. |
 | [CPython internals: A ten-hour code walk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm) | English | Nine lectures given by Philip Guo. |
+| [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html) | English | By Joel Spolsky |
