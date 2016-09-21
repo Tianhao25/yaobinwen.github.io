@@ -6,7 +6,7 @@ comments: true
 
 ---
 
-## 浏览完了阮一峰的博客
+> 阮一峰的很多博客文章内容精良，读后学到很多，但也读着很辛苦，因为数量太庞大了。
 
 因为偶尔读到了阮一峰的日志[《你的B计划在哪里？》](http://www.ruanyifeng.com/blog/2016/03/plan-b.html)，而最近又恰好处于人生和事业方面的困惑期，于是突然想把他的博客都看一遍。于是便在我的[One-Day-Hackathon](https://github.com/yaobinwen/one-day-hackathon)上建立了一项任务用来跟踪这件事：[Read Yifeng Ruan's Blog](https://github.com/yaobinwen/one-day-hackathon/tree/master/projects/2016_09_18_read_yifeng_ruan_blog).
 
