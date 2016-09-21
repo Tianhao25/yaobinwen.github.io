@@ -209,6 +209,11 @@ a {
     border: 1px solid #55CFF8;
 }
 #sub-nav .social a.email:hover { border: 1px solid #24c1f6 }
+#sub-nav .social a.twitter {
+    background: url('/images/social/twitter.png?1385702818') center no-repeat #55cff8;
+    border: 1px solid #55CFF8;
+}
+#sub-nav .social a.twitter:hover { border: 1px solid #24c1f6 }
 #sub-nav .social a.linkedin {
     background: url('/images/social/linkedin.png?1385702818') center no-repeat #ef7522;
     border: 1px solid #EF7522;
