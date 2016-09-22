@@ -6,6 +6,8 @@ comments: true
 
 ---
 
+> This article discusses a possible framework to help the software engineers read and understand large and complex requirement documents.
+
 The factors:
 
 * Event triggers
