@@ -36,3 +36,5 @@ TODO:
 * Listen to the TED talk.
 * Learn about the word *human*.
 * Find the video that shows how quickly AI can evolve.
+  * https://www.youtube.com/watch?v=JFJkpVWTQVM
+  * https://www.youtube.com/watch?v=iNL5-0_T1D0
