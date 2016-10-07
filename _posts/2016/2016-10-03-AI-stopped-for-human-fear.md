@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: post
 title: Would AI Development Be Stopped due to Human Fear?
 date: 2016-10-03
 comments: true
