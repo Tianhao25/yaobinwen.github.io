@@ -3,7 +3,7 @@ layout: post
 title: Thinking in English
 date: 2016-10-04
 tags: [English]
-categories: [English]
+categories: [Essay]
 comments: true
 
 ---

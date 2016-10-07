@@ -3,7 +3,7 @@ layout: draft
 title: Would AI Development Be Stopped due to Human Fear?
 date: 2016-10-03
 comments: true
-category: [AI]
+category: [Essay]
 tags: [AI]
 
 ---
