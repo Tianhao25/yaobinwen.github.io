@@ -27,3 +27,5 @@ This page is the collection of the web sites or the blogs that are full of usefu
 | [GIT SOURCE CODE REVIEW: OVERVIEW](http://fabiensanglard.net/git_code_review/) | English | Some notes on the study of Git by Fabien Sanglard. |
 | [CPython internals: A ten-hour code walk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm) | English | Nine lectures given by Philip Guo. |
 | [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html) | English | By Joel Spolsky |
+| [Choose an open source license](http://choosealicense.com/) | English | Help to choose an open source license. |
+| [Creative Commons](https://creativecommons.org/) | English | The CC license. |
