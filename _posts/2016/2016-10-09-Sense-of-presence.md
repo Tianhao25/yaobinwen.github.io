@@ -32,7 +32,7 @@ I learned three things after reading this article:
   * Energy management;
   * Public health management;
   * Mining;
-  * The IT industry in the Third World.
+  * Artificial intelligence.
 
 ### Notes
 * [1] The original article is written in Chinese: [《索罗斯：大学学不到的东西》](https://mp.weixin.qq.com/s?__biz=MzA3MjM2MzYzOQ==&mid=2651360372&idx=1&sn=01d73f14d3ed48ed12d59f1cb86eec7d&chksm=84e3576cb394de7a75751df6b1800c6d4297fea730a1fa58da39027e986798b670490cf67aa2&mpshare=1&scene=1&srcid=1008DvXfWPSmIQI61NpLGa8J&key=79512945a1fcb0e2d9cdff809ce461dc49bf2d771aba307212cc29972399c40ffab05f951c15e77941691ce69c9d4b23&ascene=0&uin=MjAxMzgyODc2Mg%3D%3D)
