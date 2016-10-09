@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trip-on-a-whim: Really That Good?
+title: Trip-on-a-whim May Not Be That Good
 date: 2016-10-08
 comments: true
 category: [Reading]
