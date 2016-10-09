@@ -20,8 +20,9 @@ The major points of the articles are:
 * Instead of feeling happy about the freedom granted by the vacation as it was expected to be, Many people felt anxious because they had no idea where to do and what to do even if they had the opportunity to do the *trip-on-a-whim*. They had not actually prepared for the vacation.
 * *Trip-on-a-whim* is not that easy. To do that, one needs to know what he/she wants and prepares for that in the everyday life. Besides, he/she needs to be able to react quickly to the new and strange environment: analyze it and make use of it. Knowing what is wanted, aka the "target of life", is the most important because one needs the target to aim at in order to figure out in the new environment what must be retained and what can be abandoned.
 * ** *Trip-on-a-whim* doesn't have to be about trips.** It could be any time in your life that you just decide to switch lanes and then you do so immediately, and get yourself prepared for any upcoming challenges.
+* Treat your routine life as a "trip", thought, technically, it's not the "trip" that we talk about every now and then. Open your eyes wide and look for the new stuff that were previously ignored. Record it with a photograph or a piece of writing, or both.
 
-What an insight!
+What an insight! I especially like the idea of discovering new stuff from the routine life because it essentially requires you to change your mindset. I'll definitely try that for some time and see if that brings any changes to my life.
 
 **Notes**
 
