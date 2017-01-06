@@ -32,7 +32,7 @@ The solution is described as follows:
 
 ## More Information
 
-### What is ACPI?
+### What Is ACPI?
 
 ACPI is short for [Advanced Configuration and Power Interface](http://searchwindowsserver.techtarget.com/definition/ACPI-Advanced-Configuration-and-Power-Interface):
 
@@ -42,7 +42,7 @@ ACPI is short for [Advanced Configuration and Power Interface](http://searchwind
 
 In other words, the issue with my Toughpad was probably caused by the incorrect configuration of Linux ACPI driver.
 
-### What does 'acpi_osi=' do?
+### What Does 'acpi_osi=' Do?
 
 According to this article, [Linux Kernel Boot Parameters](http://redsymbol.net/linux-kernel-boot-parameters/), the kernel parameter ```acpi_osi``` "Modify list of supported OS interface strings", and ```acpi_osi=``` disable all the OS interface strings.
 
@@ -58,10 +58,20 @@ But cg909 posted a better explanation in [this answer](http://unix.stackexchange
 >
 > acpi_osi=Linux makes Linux answer yes again when asked if it's "Linux" by the ACPI code, thus allowing the ACPI code to enable workarounds for Linux and/or disable workarounds for Windows.
 
-This is so far a very good explanation.
+This is so far the best explanation.
 
 ## One More (Unnecessary) Step...
 
 So before I finished my work today, I changed the ```/etc/default/grub``` back to the original state which should reproduce the problem if that's the cause.
 
-But, aha! Congratulations! The brightness issue was not reproduced...
+But, aha! Congratulations! The brightness issue was not reproduced, which means what I had done so far can't be proven effective...
+
+## And Matt Found His Notes
+
+Matt gave me two articles that help fix the brightness problem:
+
+* [FIX BRIGHTNESS CONTROL NOT WORKING FOR UBUNTU 14.04 & LINUX MINT 17](https://itsfoss.com/fix-brightness-ubuntu-1310/)
+
+* [UBUNTU DOES NOT REMEMBER BRIGHTNESS SETTINGS](https://itsfoss.com/ubuntu-mint-brightness-settings/)
+
+By the way, I checked the Toughpad according to the steps given in the first article, and it uses the Intel graphics card. 
