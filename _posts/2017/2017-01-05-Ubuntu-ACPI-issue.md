@@ -2,9 +2,9 @@
 layout: post
 title: Ubuntu 14.04 ACPI Issue
 date: 2017-01-05
+tags: Ubuntu, ACPI, brightness
+category: Tech
 comments: true
-category: [Tech]
-tags: [Ubuntu][ACPI]
 
 ---
 
@@ -74,4 +74,4 @@ Matt gave me two articles that help fix the brightness problem:
 
 * [UBUNTU DOES NOT REMEMBER BRIGHTNESS SETTINGS](https://itsfoss.com/ubuntu-mint-brightness-settings/)
 
-By the way, I checked the Toughpad according to the steps given in the first article, and it uses the Intel graphics card. 
+By the way, I checked the Toughpad according to the steps given in the first article, and it uses the Intel graphics card.
