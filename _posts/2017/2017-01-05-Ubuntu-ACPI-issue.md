@@ -2,7 +2,7 @@
 layout: post
 title: Ubuntu 14.04 ACPI Issue
 date: 2017-01-05
-tags: Ubuntu, ACPI, brightness
+tags: [Ubuntu][ACPI][brightness]
 category: Tech
 comments: true
 
