@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Diagramo: Local Deployment]
+title: Diagramo\: Local Deployment
 date: 2017-01-11
 tags: Diagramo
 category: Tech
