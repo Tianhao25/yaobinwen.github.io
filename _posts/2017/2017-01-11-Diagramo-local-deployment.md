@@ -10,7 +10,7 @@ comments: true
 
 ## Overview
 
-I'm trying to add an in-browser workflow editor. After searching online for a while, I decided to give [Diagramo](http://diagramo.com/) a try for several reasons:
+I'm trying to add an in-browser workflow editor for the project I'm working on. After searching online for a while, I decided to give [Diagramo](http://diagramo.com/) a try for several reasons:
 
 * It is a complete in-browser editor solution. Although [JointJS](http://www.jointjs.com/) looks more appealing, I suspect it is not more than a programming library and I would still have to do a lot of programming to implement an editor.
 * Its user interface is simple yet sufficient for my demonstration purpose.
