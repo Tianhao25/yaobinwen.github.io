@@ -51,4 +51,5 @@ a代表的是输入信息(input)，也可以称之为特征(feature)。w代表�
 最后是一些关于机器学习/深度学习的参考资料：
 
 * [Deep Learning](http://deeplearning.net/)：一个汇集了非常多的关于深度学习资料的网站。
+* [An absolute beginner’s guide to machine learning, deep learning, and AI](https://www.techinasia.com/ai-machine-deep-learning)
 * 在Google上搜索"deep learning energy management"这个关键词，可以找到一些在能源管理上应用深度学习的资料。
