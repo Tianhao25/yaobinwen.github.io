@@ -2,7 +2,7 @@
 layout: post
 title: Configure VirtualBox Network Bandwidth
 date: 2017-01-16
-tags: [VirtualBox][Network][Bandwidth]
+tags: VirtualBox, Network, Bandwidth
 category: [Tech]
 comments: true
 
