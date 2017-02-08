@@ -2,7 +2,7 @@
 layout: post
 title: Django How to Share Static Files
 date: 2017-02-07
-tags: Django, Static Files
+tags: Django, StaticFiles
 category: [Tech]
 comments: true
 
