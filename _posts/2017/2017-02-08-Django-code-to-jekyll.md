@@ -2,7 +2,7 @@
 layout: post
 title: How to Embed Django Template Code in Jekyll
 date: 2017-02-08
-tags: [Django][Jekyll]
+tags: Django,Jekyll
 category: [Tech]
 comments: true
 
