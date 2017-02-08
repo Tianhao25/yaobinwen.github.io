@@ -91,7 +91,7 @@ The HTML templates in Django's official tutorials refer to the static files as f
 HTML pages:
 
 ```html
-<link rel="stylesheet" type="text/css" href="\{\% static "polls/style.css" \%\}" />
+<link rel="stylesheet" type="text/css" href="&#123;&#37; static "polls/style.css" &#37;&#125;" />
 ```
 
 style.css:
@@ -105,11 +105,11 @@ body {
 You need to adjust the relative paths accordingly. For example, because now we've put the ```style.css``` immediately under the ```__shared___``` directory without any intermediate sub-directories, we should no longer use the ```polls``` directory, so we should modify the HTML template as:
 
 ```html
-<link rel="stylesheet" type="text/css" href="\{\% static "style.css" \%\}" />
+<link rel="stylesheet" type="text/css" href="&#123;&#37; static "style.css" &#37;&#125;" />
 ```
 
-When Django's static file finder looks for the style.css as specified in the code ```\{\% static "style.css" \%\}```, it first searches in the ```static``` directory of that app. Because this directory doesn't exist after we move the static files to the shared location, the finder then searches the additional static file folders which contains ```__shared___```, and is able to find and use it. If we don't remove the intermediate ```polls```, the finder cannot find the file ```__shared__/polls/style.css```.
+When Django's static file finder looks for the style.css as specified in the code ```&#123;&#37; static "style.css" &#37;&#125;```, it first searches in the ```static``` directory of that app. Because this directory doesn't exist after we move the static files to the shared location, the finder then searches the additional static file folders which contains ```__shared___```, and is able to find and use it. If we don't remove the intermediate ```polls```, the finder cannot find the file ```__shared__/polls/style.css```.
 
 ## More Notes
 
-I also read the blog [Share static files between apps in Django](http://vincesalvino.blogspot.com/2013/02/share-static-files-between-apps-in.html). However, this article doesn't discuss how to modify the HTML template accordingly. The template refers to the ```style.css``` with ```\{\{STATIC_URL\}\}/style.css``` which doesn't work because ```STATIC_URL``` is always ```static``` and doesn't include the newly added ```common-static``` in.
+I also read the blog [Share static files between apps in Django](http://vincesalvino.blogspot.com/2013/02/share-static-files-between-apps-in.html). However, this article doesn't discuss how to modify the HTML template accordingly. The template refers to the ```style.css``` with ```&#123;\{STATIC_URL&#125;&#125;/style.css``` which doesn't work because ```STATIC_URL``` is always ```static``` and doesn't include the newly added ```common-static``` in.
