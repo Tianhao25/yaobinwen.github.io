@@ -90,9 +90,9 @@ The HTML templates in Django's official tutorials refer to the static files as f
 
 HTML pages:
 
-```html
+{% raw %}
 <link rel="stylesheet" type="text/css" href="{% static "polls/style.css" %}" />
-```
+{% endraw %}
 
 style.css:
 
