@@ -91,7 +91,7 @@ The HTML templates in Django's official tutorials refer to the static files as f
 HTML pages:
 
 ```html
-<link rel="stylesheet" type="text/css" href="&#123;&#37; static "polls/style.css" &#37;&#125;" />
+<link rel="stylesheet" type="text/css" href="{% static "polls/style.css" %}" />
 ```
 
 style.css:
