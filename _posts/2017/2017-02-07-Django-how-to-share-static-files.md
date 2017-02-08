@@ -91,8 +91,6 @@ The HTML templates in Django's official tutorials refer to the static files as f
 HTML pages:
 
 ```html
-{% load static %}
-
 <link rel="stylesheet" type="text/css" href="{% static "polls/style.css" %}" />
 ```
 
@@ -107,8 +105,6 @@ body {
 You need to adjust the relative paths accordingly. For example, because now we've put the ```style.css``` immediately under the ```__shared___``` directory without any intermediate sub-directories, we should no longer use the ```polls``` directory, so we should modify the HTML template as:
 
 ```html
-{% load static %}
-
 <link rel="stylesheet" type="text/css" href="{% static "style.css" %}" />
 ```
 
