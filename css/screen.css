@@ -13,7 +13,7 @@ html { height: 100% }
 body {
     height: 100%;
     color: #333;
-    font-family: "Times New Roman",Arial,Georgia,Cambria,Times,serif;   /* robin: This controls the font of the post.*/
+    font-family: Cambria,Arial,Georgia,Times,serif;   /* robin: This controls the font of the post.*/
     font-weight: 300;
     font-size: 13px;
     background: #2d3339;
