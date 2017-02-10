@@ -460,9 +460,8 @@ article .entry-content .video-container embed {
 .meta .tags:before { content: "\f02c" }
 .meta .comments:before { content: "\f075" }
 .meta .edit:before { content: "\f044" }
-/* #content article .entry-content .archives { font-family: "Open Sans" } */
-#content article .entry-content .archives { font-family: "Arial" }
-#content article .entry-content .archives .year { font-size: 0.9em }
+#content article .entry-content .archives { font-family: "Open Sans" }
+#content article .entry-content .archives .year { font-size: 1.1em }
 #content article .entry-content .archives h3.title {
     display: inline-block;
     font-size: 0.9em;
