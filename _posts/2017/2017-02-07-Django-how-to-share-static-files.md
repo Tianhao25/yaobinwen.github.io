@@ -12,7 +12,7 @@ When I was working on my Django project I came across the situation that multipl
 
 The solution consists of the following steps:
 
-* Add the ```STATICFILES_DIRS``` variable to the project's ```settings.py``` file.
+* Add the `STATICFILES_DIRS` variable to the project's ```settings.py``` file.
 * Put the static files to a shared location.
 * Modify the HTML templates, if necessary, to use the files in the shared location.
 
