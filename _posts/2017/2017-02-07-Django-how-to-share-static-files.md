@@ -12,15 +12,15 @@ When I was working on my Django project I came across the situation that multipl
 
 The solution consists of the following steps:
 
-* Add the ```STATICFILES_DIRS``` variable to the project's ```settings.py``` file.
+* Add the _STATICFILES_DIRS_ variable to the project's _settings.py_ file.
 * Put the static files to a shared location.
 * Modify the HTML templates, if necessary, to use the files in the shared location.
 
 Here are more details about each step. Please note that this article is written on the basis of the [Django's official tutorials](https://docs.djangoproject.com/en/1.10/intro/tutorial01/) so it should work for you if you also base your work on the same tutorial.
 
-## Step 1: Add the ```STATICFILES_DIRS``` Variable
+## Step 1: Add the _STATICFILES_DIRS_ Variable
 
-In the project's ```settings.py``` file, you should be able to find a variable at the end of it:
+In the project's _settings.py_ file, you should be able to find a variable at the end of it:
 
 ```python
 # Static files (CSS, JavaScript, Images)
@@ -37,13 +37,13 @@ STATICFILES_DIRS = [
 ]
 ```
 
-This tells Django to search for static files in addition to the path specified in ```STATIC_URL```. The relevant document is here: [STATICFILES_DIRS](https://docs.djangoproject.com/en/1.10/ref/settings/#staticfiles-dirs).
+This tells Django to search for static files in addition to the path specified in _STATIC_URL_. The relevant document is here: [STATICFILES_DIRS](https://docs.djangoproject.com/en/1.10/ref/settings/#staticfiles-dirs).
 
 
 
 ## Step 2: Put the Static Files to the Shared Location
 
-In Step 1, the ```BASE_DIR``` is defined in the ```settings.py``` as well:
+In Step 1, the _BASE_DIR_ is defined in the _settings.py_ as well:
 
 ```python
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -62,15 +62,15 @@ mysite/
         wsgi.py
 ```
 
-The ```BASE_DIR``` points to the ```mysite``` inside the outer ```mysite```. Therefore, the additional static file location we added in Step 1 should be:
+The _BASE_DIR_ points to the _mysite_ inside the outer _mysite_. Therefore, the additional static file location we added in Step 1 should be:
 
-```
+```text
 mysite/mysite/__shared__
 ```
 
 So let's create this directory and make the directory structure look like below:
 
-```
+```text
 mysite/
     __shared__/
         images/
@@ -104,7 +104,7 @@ body {
 }
 ```
 
-You need to adjust the relative paths accordingly. For example, because now we've put the ```style.css``` immediately under the ```__shared___``` directory without any intermediate sub-directories, we should no longer use the ```polls``` directory, so we should modify the HTML template as:
+You need to adjust the relative paths accordingly. For example, because now we've put the _style.css_ immediately under the ___shared____ directory without any intermediate sub-directories, we should no longer use the _polls_ directory, so we should modify the HTML template as:
 
 {% raw %}
 ```html
@@ -112,8 +112,8 @@ You need to adjust the relative paths accordingly. For example, because now we'v
 ```
 {% endraw %}
 
-When Django's static file finder looks for the style.css as specified in the code {% raw %} ```{% static "style.css" %}``` {% endraw %}, it first searches in the ```static``` directory of that app. Because this directory doesn't exist after we move the static files to the shared location, the finder then searches the additional static file folders which contains ```__shared___```, and is able to find and use it. If we don't remove the intermediate ```polls```, the finder cannot find the file ```__shared__/polls/style.css```.
+When Django's static file finder looks for the style.css as specified in the code {% raw %} ```{% static "style.css" %}``` {% endraw %}, it first searches in the _static_ directory of that app. Because this directory doesn't exist after we move the static files to the shared location, the finder then searches the additional static file folders which contains ___shared____, and is able to find and use it. If we don't remove the intermediate _polls_, the finder cannot find the file *__shared__/polls/style.css*.
 
 ## More Notes
 
-I also read the blog [Share static files between apps in Django](http://vincesalvino.blogspot.com/2013/02/share-static-files-between-apps-in.html). However, this article doesn't discuss how to modify the HTML template accordingly. The template refers to the ```style.css``` with {% raw %}```{{STATIC_URL}}/style.css```{% endraw %} which doesn't work because ```STATIC_URL``` is always ```static``` and doesn't include the newly added ```common-static``` in.
+I also read the blog [Share static files between apps in Django](http://vincesalvino.blogspot.com/2013/02/share-static-files-between-apps-in.html). However, this article doesn't discuss how to modify the HTML template accordingly. The template refers to the _style.css_ with {% raw %}```{{STATIC_URL}}/style.css```{% endraw %} which doesn't work because _STATIC_URL_ is always _static_ and doesn't include the newly added _common-static_ in.
