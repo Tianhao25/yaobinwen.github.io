@@ -2,7 +2,7 @@
 layout: post
 title: How to Fix Package Is in a Very Bad Inconsistent State Error
 date: 2017-02-13
-tags: [dpkg][inconsistent]
+tags: dpkg, inconsistent
 category: [Tech]
 comments: true
 
