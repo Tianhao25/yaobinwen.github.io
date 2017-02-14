@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Fix _Package is in a very bad inconsistent state_ Error
+title: How to Fix Package Is in a Very Bad Inconsistent State Error
 date: 2017-02-13
 tags: [dpkg][inconsistent]
 category: [Tech]
