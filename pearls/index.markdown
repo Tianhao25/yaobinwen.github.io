@@ -29,3 +29,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 | [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html) | English | By Joel Spolsky |
 | [Choose an open source license](http://choosealicense.com/) | English | Help to choose an open source license. |
 | [Creative Commons](https://creativecommons.org/) | English | The CC license. |
+| [Google Guide](http://www.googleguide.com/) | English | An online interactive tutorial to learn Google searching. |
