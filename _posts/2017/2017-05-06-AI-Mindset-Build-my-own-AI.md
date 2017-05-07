@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A.I. Mindset - Build My Own A.I.
+title: AI Mindset - Build My Own AI
 date: 2017-05-06
 tags: artificial intelligence
 category: [Tech][AI]
