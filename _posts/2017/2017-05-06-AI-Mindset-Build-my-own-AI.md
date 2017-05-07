@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-> This article is about a GAME, NOT science or engineering.
+> This is my GAME, NOT science or engineering.
 
 Yes, this article is about a game of my own, not any kind of science or engineering. Building my own A.I. without much A.I. knowledge can't be anything but a personal interest. Today I spent almost the whole day skimming online documents, Wikipedia entries, and other people's talks or slides to get a basic idea of the artificial intelligence field. That's all what I have learned so far. However, the boundary of my current knowledge wouldn't stop me from trying to develop my own artificial intelligence.
 
