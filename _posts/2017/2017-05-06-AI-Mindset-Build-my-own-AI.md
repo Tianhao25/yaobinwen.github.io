@@ -3,7 +3,7 @@ layout: post
 title: AI Mindset Series of Build My Own AI
 date: 2017-05-06
 tags: artificial intelligence
-category: [Tech AI]
+category: [Tech, AI]
 comments: true
 
 ---
