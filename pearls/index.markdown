@@ -30,3 +30,4 @@ This page is the collection of the web sites or the blogs that are full of usefu
 | [Choose an open source license](http://choosealicense.com/) | English | Help to choose an open source license. |
 | [Creative Commons](https://creativecommons.org/) | English | The CC license. |
 | [Google Guide](http://www.googleguide.com/) | English | An online interactive tutorial to learn Google searching. |
+| [Source Making](https://sourcemaking.com/) | English | A site about software architecture |
