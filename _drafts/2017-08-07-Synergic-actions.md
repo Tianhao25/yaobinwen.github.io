@@ -8,12 +8,20 @@ comments: true
 
 > When you are working on a goal, make sure all your actions cooperate with and strengthen, rather than conflict with and thus weaken, each other, to produce a greater power than doing them separately.
 
-I learned the concept "synergic actions" when reading a reply by Professor-Li's on Zhihu(a Quora-like product in China).
+I learned the concept "synergic actions" when reading a reply by Professor-Li on Zhihu(a Quora-like product in China).
 
-This morning when I was reading another book, the author says "The best material of learning is our everyday life".
+The idea is as mentioned above: **When you are working on a goal, make sure all your actions cooperate with and strengthen, rather than conflict with and thus weaken, each other, to produce a greater power than doing them separately.**
 
-I thought about why the author could find out this amazing source of learning, while I mostly consider books as the source of learning. That's when "synergic actions" occurred to me and I realize this is a natural conclusion when you apply this concept.
+This morning when I was reading another book, [Study Wisely](https://www.amazon.com/Handbook-Personal-Knowledge-Management-Chinese/dp/7508671589/ref=sr_1_1?ie=UTF8&qid=1502154279&sr=8-1&keywords=%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0), the author, Cheng Jia, says "The best source of learning material is our everyday life".
 
-Here is the reasoning: I want to keep learning to improve my decision quality by evaluating my decision-making process; I spend a significant amount of time in work, and all my time in daily life; In my daily life, I make a lot of decisions. Now let's apply the "synergic actions" thinking model: How can I combine them two altogether? Boom! Right! Use my everyday life experience as the source of learning.
+![Cheng Jia and his book _Study Wisely_](http://upload-images.jianshu.io/upload_images/2949191-9341481ef2ed00e5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-"Synergic actions" is a very good model of considering the daily actions: Set up the goals, set up the action plan, and make sure all the actions enhance each other to produce a more powerful result.
+What an obvious yet provocative insight! I've lived through my life so long but have not thought too much about it! Then I asked myself: Why could he find out this simple and effective idea but I just kept overlooking it in the past 30 more years? That's when "synergic actions" occurred to me and I realize this is an immediate application of this concept.
+
+Here is the reasoning:
+
+- I want to keep learning to improve my decision quality by evaluating my decision-making process. To do this, I need a lot of raw material for analysis.
+- In my daily life, I make a lot of decisions.
+- Now let's apply the "synergic actions" thinking model: When I combine them together, I can maximize my time usage because I don't need to spend additional time looking for other material.
+
+"Synergic actions" is a very good model of organizing the daily activities: Set up the goals, set up the action plan, and make sure all the activities enhance each other to produce a more powerful result.
