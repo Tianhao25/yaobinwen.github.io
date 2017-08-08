@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synergic Actions: Make the Best Use of Your Daily Life And Work
+title: Synergic Actions &colon; Make the Best Use of Your Daily Life And Work
 date: 2017-08-07
 comments: true
 
