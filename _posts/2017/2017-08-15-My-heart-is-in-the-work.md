@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Heart Is In The Work", Therefore My Work Reflects My Heart
+title: &quot;My Heart Is In The Work&quot;, Therefore My Work Reflects My Heart
 date: 2017-08-15
 comments: true
 
